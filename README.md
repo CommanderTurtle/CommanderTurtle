@@ -36,6 +36,6 @@ Still WIP. Doing lots of editing as I continue development. Especially with Diog
 - [app/adspace](https://app.shel.sh/adspace/templates/1) - ad simulator
 - [app/countku](https://app.shel.sh/countku) - count in haiku
 - [app/webclip](https://app.shel.sh/webclip) - scrape the web to markdown
-
+- [mm-tools](https://github.com/CommanderTurtle/mm-tools) - Locally hosted AI multimedia frontends
 
 </details>
