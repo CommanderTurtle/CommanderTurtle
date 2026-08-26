@@ -36,6 +36,10 @@ Still WIP. Doing lots of editing as I continue development. Especially with Diog
 - [app/adspace](https://app.shel.sh/adspace/templates/1) - ad simulator
 - [app/countku](https://app.shel.sh/countku) - count in haiku
 - [app/webclip](https://app.shel.sh/webclip) - scrape the web to markdown
+
+### Multimedia:
+
 - [mm-tools](https://github.com/CommanderTurtle/mm-tools) - Locally hosted AI multimedia frontends
+- [seamingly-epic](https://github.com/CommanderTurtle/seamingly-epic) - A mathematical seam project to allow for 8k Nvidia PID Generation
 
 </details>
