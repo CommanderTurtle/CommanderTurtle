@@ -3,12 +3,19 @@
 
 `Hi, I'm turtle. I make libraries that make development easier for everyone.`
 
+[ᶜᵒᵐᵖᵃʳᵉ ᵈᵘʳᵃᵇᶦˡᶦᵗʸ](https://www.poketools.com/pokemon-comparison?ids=213,10002)
+
 ### Libraries:
 
 - 🟨JSㅤㅤㅤㅤ• [sandwich](https://github.com/CommanderTurtle/sandwich) - a dependency auditor and bun protector ... for all these package.jsons 
 - 🟫Rustㅤㅤㅤ• [regedited](https://github.com/CommanderTurtle/regedited) - for databases, replace SQL with rust. Stateful headers are your DB.
 - 🟪F#ㅤㅤㅤㅤㅤ• [orc](https://github.com/CommanderTurtle/orc) - a multiplatform giraffe wrapper, for modular sites in all languages.
 - 🟦Tsㅤㅤㅤㅤㅤㅤ• [vitality](https://github.com/CommanderTurtle/vitality) - a wrapper to give "life" to js. It wraps "legacy js" to Vite
+
+<br>
+
+|[ʰᵒʳˢᵉ ʳᵘⁿ](https://a.shel.sh/#ss:::X47Qf!?kzD@Tfmmj$Xohh9HU0Yz?eg_xz:e3)|[ᵖᵉˡᶦᶜᵃⁿ ʳᵘⁿ](https://a.shel.sh/#ss:nv*ozoNVoMID#W1$Pzu0t#.hS~4Ku.L?_qF8LLW!)|[ᵍᵘᵐᵐʸ ᵇᵉᵃʳ ʳᵘⁿ](https://a.shel.sh/#ss:z;25g5t.nx6_2JSnU]YLYp906[&_7njQ=[*p$J')|
+|-|-|-|
 
 <details><summary>expand full suite of tech debt</summary>
 
