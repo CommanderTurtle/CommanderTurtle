@@ -12,10 +12,6 @@
 - 🟪F#ㅤㅤㅤㅤㅤ• [orc](https://github.com/CommanderTurtle/orc) - a multiplatform giraffe wrapper, for modular sites in all languages.
 - 🟦Tsㅤㅤㅤㅤㅤㅤ• [vitality](https://github.com/CommanderTurtle/vitality) - a wrapper to give "life" to js. It wraps "legacy js" to Vite
 
-<br>
-
-
-
 <details><summary>expand full suite of tech debt</summary>
 
 ### Agent Infrastructure Projects:
