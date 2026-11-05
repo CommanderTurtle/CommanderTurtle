@@ -1,0 +1,286 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" role="img" aria-labelledby="ttl dsc">
+  <title id="ttl">Macrohelp</title>
+  <desc id="dsc">The word Macrohelp drawn in a glowing 5x7 pixel font beside an old-style retro CRT computer.</desc>
+
+  <defs>
+    <!-- ══════════ PIXEL GLYPHS · 5x7 matrix · 1 unit = 1 pixel ══════════ -->
+    <g id="gM">
+      <rect x="0" y="0" width="1" height="7"/><rect x="4" y="0" width="1" height="7"/>
+      <rect x="1" y="1" width="1" height="1"/><rect x="3" y="1" width="1" height="1"/>
+      <rect x="2" y="2" width="1" height="3"/>
+    </g>
+    <g id="ga">
+      <rect x="1" y="2" width="4" height="1"/><rect x="4" y="2" width="1" height="3"/>
+      <rect x="1" y="4" width="4" height="1"/><rect x="0" y="5" width="1" height="2"/>
+      <rect x="4" y="5" width="1" height="2"/><rect x="1" y="6" width="4" height="1"/>
+    </g>
+    <g id="gc">
+      <rect x="1" y="2" width="3" height="1"/><rect x="0" y="2" width="1" height="5"/>
+      <rect x="4" y="3" width="1" height="3"/><rect x="1" y="6" width="3" height="1"/>
+    </g>
+    <g id="gr">
+      <rect x="0" y="2" width="1" height="5"/><rect x="2" y="2" width="2" height="1"/>
+      <rect x="1" y="3" width="1" height="1"/>
+    </g>
+    <g id="go">
+      <rect x="1" y="2" width="3" height="1"/><rect x="0" y="3" width="1" height="3"/>
+      <rect x="4" y="3" width="1" height="3"/><rect x="1" y="6" width="3" height="1"/>
+    </g>
+    <g id="gh">
+      <rect x="0" y="0" width="1" height="7"/><rect x="2" y="2" width="2" height="1"/>
+      <rect x="4" y="3" width="1" height="4"/><rect x="1" y="3" width="1" height="1"/>
+    </g>
+    <g id="ge">
+      <rect x="1" y="2" width="3" height="1"/><rect x="0" y="2" width="1" height="5"/>
+      <rect x="4" y="3" width="1" height="1"/><rect x="1" y="4" width="4" height="1"/>
+      <rect x="1" y="6" width="3" height="1"/>
+    </g>
+    <g id="gl">
+      <rect x="1" y="0" width="2" height="1"/><rect x="1" y="1" width="1" height="6"/>
+      <rect x="2" y="6" width="2" height="1"/>
+    </g>
+    <g id="gp">
+      <rect x="1" y="2" width="3" height="1"/><rect x="0" y="2" width="1" height="7"/>
+      <rect x="4" y="3" width="1" height="2"/><rect x="1" y="5" width="3" height="1"/>
+    </g>
+
+    <!-- ══════════ THE WORD: M a c r o h e l p ══════════ -->
+    <g id="word" shape-rendering="crispEdges">
+      <use href="#gM" x="0"/>
+      <use href="#ga" x="6"/>
+      <use href="#gc" x="12"/>
+      <use href="#gr" x="18"/>
+      <use href="#go" x="24"/>
+      <use href="#gh" x="30"/>
+      <use href="#ge" x="36"/>
+      <use href="#gl" x="41"/>
+      <use href="#gp" x="46"/>
+    </g>
+
+    <!-- ══════════ SCREEN CODE (reused: blurred + sharp) ══════════ -->
+    <g id="code">
+      <rect x="92"  y="82"  width="22" height="6" rx="3" fill="#5FF3D6" opacity=".92"/>
+      <rect x="122" y="82"  width="46" height="6" rx="3" fill="#5FF3D6" opacity=".5"/>
+      <rect x="176" y="82"  width="30" height="6" rx="3" fill="#5FF3D6" opacity=".75"/>
+      <rect x="100" y="96"  width="40" height="6" rx="3" fill="#5FF3D6" opacity=".7"/>
+      <rect x="148" y="96"  width="26" height="6" rx="3" fill="#9B8CFF" opacity=".85"/>
+      <rect x="182" y="96"  width="18" height="6" rx="3" fill="#5FF3D6" opacity=".45"/>
+      <rect x="100" y="110" width="58" height="6" rx="3" fill="#5FF3D6" opacity=".85"/>
+      <rect x="166" y="110" width="24" height="6" rx="3" fill="#5FF3D6" opacity=".6"/>
+      <rect x="92"  y="124" width="28" height="6" rx="3" fill="#5FF3D6" opacity=".65"/>
+      <rect x="128" y="124" width="52" height="6" rx="3" fill="#5FF3D6" opacity=".8"/>
+      <rect x="100" y="138" width="36" height="6" rx="3" fill="#5FF3D6" opacity=".7"/>
+      <rect x="144" y="138" width="22" height="6" rx="3" fill="#5FF3D6" opacity=".5"/>
+      <rect x="92"  y="152" width="18" height="6" rx="3" fill="#5FF3D6" opacity=".8"/>
+    </g>
+
+    <!-- ══════════ GRADIENTS ══════════ -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2=".55" y2="1">
+      <stop offset="0" stop-color="#0D1527"/><stop offset=".55" stop-color="#0A0F1E"/><stop offset="1" stop-color="#06090F"/>
+    </linearGradient>
+    <radialGradient id="tealGlow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#2FE0C0" stop-opacity=".28"/><stop offset="1" stop-color="#2FE0C0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violetGlow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#7C5CFF" stop-opacity=".26"/><stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vig" cx=".5" cy=".5" r=".78">
+      <stop offset=".5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".6"/>
+    </radialGradient>
+    <radialGradient id="shadowGrad" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#000" stop-opacity=".6"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="caseGrad" x1="0" y1="0" x2=".3" y2="1">
+      <stop offset="0" stop-color="#F6F1DF"/><stop offset=".45" stop-color="#E4DDC5"/><stop offset="1" stop-color="#BAB193"/>
+    </linearGradient>
+    <linearGradient id="caseShadeV" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6E6650" stop-opacity="0"/><stop offset="1" stop-color="#6E6650" stop-opacity=".45"/>
+    </linearGradient>
+    <linearGradient id="caseShadeH" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6E6650" stop-opacity="0"/><stop offset="1" stop-color="#6E6650" stop-opacity=".4"/>
+    </linearGradient>
+    <linearGradient id="handleGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#EFE8D2"/><stop offset="1" stop-color="#B7AE91"/>
+    </linearGradient>
+    <linearGradient id="bezelGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#262A33"/><stop offset="1" stop-color="#0C0E13"/>
+    </linearGradient>
+    <radialGradient id="screenGrad" cx=".5" cy=".45" r=".72">
+      <stop offset="0" stop-color="#114339"/><stop offset=".6" stop-color="#07231F"/><stop offset="1" stop-color="#04110F"/>
+    </radialGradient>
+    <radialGradient id="screenBloom" cx=".5" cy=".45" r=".6">
+      <stop offset="0" stop-color="#3FE6C6" stop-opacity=".22"/><stop offset="1" stop-color="#3FE6C6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glareGrad" x1="0" y1="0" x2=".8" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".34"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="standGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#CFC6A8"/><stop offset="1" stop-color="#A69D80"/>
+    </linearGradient>
+    <linearGradient id="baseGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E7E0C9"/><stop offset="1" stop-color="#ABA285"/>
+    </linearGradient>
+    <linearGradient id="kbGrad" x1="0" y1="0" x2=".2" y2="1">
+      <stop offset="0" stop-color="#EAE3CC"/><stop offset="1" stop-color="#B3AA8C"/>
+    </linearGradient>
+    <linearGradient id="btnGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#DCD4BA"/><stop offset="1" stop-color="#A79E81"/>
+    </linearGradient>
+
+    <linearGradient id="wordGrad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="51" y2="9">
+      <stop offset="0" stop-color="#5FF1D6"/><stop offset=".45" stop-color="#54C6FF"/><stop offset="1" stop-color="#B47BFF"/>
+    </linearGradient>
+    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="9">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".6"/><stop offset=".4" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- ══════════ PATTERNS ══════════ -->
+    <pattern id="bgGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0V24M0 24H24" stroke="#8FA3D0" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <pattern id="pxGrid" width="1" height="1" patternUnits="userSpaceOnUse">
+      <rect x=".84" width=".16" height="1" fill="#05070F"/><rect y=".84" width="1" height=".16" fill="#05070F"/>
+    </pattern>
+    <pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse">
+      <rect width="3" height="1.5" fill="#000" opacity=".34"/>
+    </pattern>
+
+    <!-- ══════════ FILTERS / CLIPS ══════════ -->
+    <filter id="pxGlow" x="-16%" y="-50%" width="132%" height="200%">
+      <feGaussianBlur stdDeviation="1.2"/>
+    </filter>
+    <filter id="screenGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <filter id="ledGlow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <clipPath id="caseClip"><rect x="56" y="44" width="252" height="196" rx="18"/></clipPath>
+    <clipPath id="screenClip"><rect x="80" y="66" width="166" height="112" rx="10"/></clipPath>
+  </defs>
+
+  <!-- ══════════════════ BACKGROUND ══════════════════ -->
+  <rect width="900" height="340" fill="url(#bgGrad)"/>
+  <rect width="900" height="340" fill="url(#bgGrid)"/>
+  <ellipse cx="180" cy="160" rx="300" ry="230" fill="url(#tealGlow)"/>
+  <ellipse cx="620" cy="170" rx="360" ry="240" fill="url(#violetGlow)"/>
+  <g fill="#5FF1D6" opacity=".16">
+    <rect x="342" y="46" width="9" height="9"/><rect x="852" y="118" width="7" height="7"/>
+    <rect x="30" y="300" width="7" height="7" fill="#B47BFF"/>
+    <rect x="796" y="44" width="7" height="7" fill="#B47BFF"/>
+  </g>
+
+  <!-- ══════════════════ RETRO COMPUTER ══════════════════ -->
+  <g id="computer">
+    <!-- ground shadow -->
+    <ellipse cx="182" cy="304" rx="152" ry="20" fill="url(#shadowGrad)"/>
+    <!-- keyboard cable (behind) -->
+    <path d="M292 286C320 280 332 258 316 244" fill="none" stroke="#A79E81" stroke-width="6" stroke-linecap="round" opacity=".9"/>
+    <!-- carry handle -->
+    <path d="M150 46C150 6 214 6 214 46" fill="none" stroke="#9C9377" stroke-width="16" stroke-linecap="round"/>
+    <path d="M150 46C150 6 214 6 214 46" fill="none" stroke="url(#handleGrad)" stroke-width="11" stroke-linecap="round"/>
+    <!-- case -->
+    <rect x="56" y="44" width="252" height="196" rx="18" fill="url(#caseGrad)"/>
+    <g clip-path="url(#caseClip)">
+      <rect x="56" y="44" width="252" height="9" fill="#FFFCED" opacity=".45"/>
+      <rect x="56" y="196" width="252" height="44" fill="url(#caseShadeV)"/>
+      <rect x="284" y="44" width="24" height="196" fill="url(#caseShadeH)"/>
+      <rect x="56" y="44" width="252" height="196" fill="none" stroke="#8C8468" stroke-width="8" opacity=".35"/>
+    </g>
+    <rect x="56" y="44" width="252" height="196" rx="18" fill="none" stroke="#7E7660" stroke-width="1.5"/>
+
+    <!-- screen bezel -->
+    <rect x="72" y="58" width="182" height="128" rx="12" fill="url(#bezelGrad)"/>
+    <rect x="72" y="58" width="182" height="128" rx="12" fill="none" stroke="#05070B" stroke-width="2"/>
+    <!-- glass -->
+    <rect x="80" y="66" width="166" height="112" rx="10" fill="url(#screenGrad)"/>
+    <rect x="80" y="66" width="166" height="112" rx="10" fill="url(#screenBloom)"/>
+    <g clip-path="url(#screenClip)">
+      <use href="#code" filter="url(#screenGlow)" opacity=".85"/>
+      <use href="#code"/>
+      <!-- blinking cursor -->
+      <rect x="116" y="152" width="12" height="6" rx="2" fill="#FFC14D">
+        <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="80" y="66" width="166" height="112" fill="url(#scan)"/>
+      <path d="M84 66h58l-56 112H80V84z" fill="url(#glareGrad)" opacity=".5"/>
+      <rect x="80" y="66" width="166" height="112" rx="10" fill="none" stroke="#000" stroke-width="4" opacity=".55"/>
+    </g>
+
+    <!-- right strip: floppy slot + vents -->
+    <path d="M258 62V184" stroke="#A79E81" stroke-width="1.5" opacity=".55"/>
+    <rect x="262" y="74" width="38" height="8" rx="4" fill="#2B2E35"/>
+    <rect x="265" y="76" width="32" height="2" rx="1" fill="#5FF3D6" opacity=".35"/>
+    <g fill="#A79E81" opacity=".6">
+      <rect x="266" y="116" width="30" height="4" rx="2"/>
+      <rect x="266" y="126" width="30" height="4" rx="2"/>
+      <rect x="266" y="136" width="30" height="4" rx="2"/>
+    </g>
+
+    <!-- chin: pixel-M badge, brand plate, power LED, power key -->
+    <use href="#gM" transform="translate(80,193) scale(2.2)" fill="#7C7459" shape-rendering="crispEdges"/>
+    <g fill="#8C8468" opacity=".8">
+      <rect x="98" y="195" width="44" height="5" rx="2.5"/>
+      <rect x="98" y="204" width="28" height="5" rx="2.5"/>
+    </g>
+    <circle cx="246" cy="211" r="11" fill="#FFB13D" opacity=".35" filter="url(#ledGlow)">
+      <animate attributeName="opacity" values=".22;.45;.22" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="246" cy="211" r="4.5" fill="#FFC968"/>
+    <circle cx="246" cy="211" r="1.8" fill="#FFF6D2"/>
+    <rect x="264" y="198" width="34" height="26" rx="8" fill="url(#btnGrad)" stroke="#8C8468" stroke-width="1.5"/>
+    <path d="M281 205v7" stroke="#5C5540" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- stand + base -->
+    <path d="M110 238h144l14 24H96z" fill="url(#standGrad)" stroke="#8C8468" stroke-width="1.2"/>
+    <rect x="88" y="258" width="188" height="16" rx="8" fill="url(#baseGrad)" stroke="#8C8468" stroke-width="1.2"/>
+
+    <!-- keyboard -->
+    <path d="M66 282h232l20 30H46z" fill="url(#kbGrad)" stroke="#8C8468" stroke-width="1.4"/>
+    <g fill="#D3CBAE" stroke="#9C9377" stroke-width=".75" shape-rendering="crispEdges">
+      <rect x="84"  y="287" width="17" height="5" rx="2.5"/><rect x="104" y="287" width="17" height="5" rx="2.5"/>
+      <rect x="124" y="287" width="17" height="5" rx="2.5"/><rect x="144" y="287" width="17" height="5" rx="2.5"/>
+      <rect x="164" y="287" width="17" height="5" rx="2.5"/><rect x="184" y="287" width="17" height="5" rx="2.5"/>
+      <rect x="204" y="287" width="17" height="5" rx="2.5"/><rect x="224" y="287" width="17" height="5" rx="2.5"/>
+      <rect x="244" y="287" width="17" height="5" rx="2.5"/><rect x="264" y="287" width="17" height="5" rx="2.5"/>
+
+      <rect x="74"  y="295" width="17" height="5" rx="2.5"/><rect x="94"  y="295" width="17" height="5" rx="2.5"/>
+      <rect x="114" y="295" width="17" height="5" rx="2.5"/><rect x="134" y="295" width="17" height="5" rx="2.5"/>
+      <rect x="154" y="295" width="17" height="5" rx="2.5"/><rect x="174" y="295" width="17" height="5" rx="2.5"/>
+      <rect x="194" y="295" width="17" height="5" rx="2.5"/><rect x="214" y="295" width="17" height="5" rx="2.5"/>
+      <rect x="234" y="295" width="17" height="5" rx="2.5"/><rect x="254" y="295" width="17" height="5" rx="2.5"/>
+      <rect x="274" y="295" width="17" height="5" rx="2.5"/>
+
+      <rect x="65"  y="303" width="17" height="5" rx="2.5"/><rect x="86"  y="303" width="17" height="5" rx="2.5"/>
+      <rect x="107" y="303" width="17" height="5" rx="2.5"/>
+      <rect x="128" y="303" width="104" height="5" rx="2.5"/>
+      <rect x="240" y="303" width="17" height="5" rx="2.5"/><rect x="261" y="303" width="17" height="5" rx="2.5"/>
+      <rect x="282" y="303" width="17" height="5" rx="2.5"/>
+    </g>
+  </g>
+
+  <!-- ══════════════════ PIXEL WORDMARK ══════════════════ -->
+  <g transform="translate(368,116) scale(8)">
+    <!-- halo -->
+    <g filter="url(#pxGlow)" opacity=".6"><use href="#word" fill="#2BD9C4"/></g>
+    <!-- chunky pixel extrusion -->
+    <g shape-rendering="crispEdges">
+      <use href="#word" x=".25" y=".25" fill="#131C38"/>
+      <use href="#word" x=".5"  y=".5"  fill="#101830"/>
+      <use href="#word" x=".75" y=".75" fill="#0C1327"/>
+      <use href="#word" x="1"   y="1"   fill="#080D1D"/>
+    </g>
+    <!-- gradient face + top shine -->
+    <use href="#word" fill="url(#wordGrad)"/>
+    <use href="#word" fill="url(#shine)"/>
+    <!-- blinking underscore cursor -->
+    <rect x="53" y="7" width="4" height="1" fill="#FFC14D" shape-rendering="crispEdges">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+    <!-- LED-matrix grid overlay -->
+    <rect x="-.3" y="-.3" width="58.5" height="11.4" fill="url(#pxGrid)" opacity=".55"/>
+  </g>
+
+  <rect width="900" height="340" fill="url(#vig)"/>
+</svg>
