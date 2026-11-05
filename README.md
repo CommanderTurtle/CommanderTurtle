@@ -81,6 +81,13 @@ gpu & local-only for just about everything so far!
 - 🟫Rust&nbsp;&nbsp;• [seamingly-epic](https://github.com/CommanderTurtle/seamingly-epic) - A mathematical seam project to allow for 8k Nvidia PID Generation
 - 🟫Rust&nbsp;&nbsp;• [vox](https://github.com/CommanderTurtle/vox) - Use local LLMs in a local mv3 extension on Edge. Subtitle things with Speech-To-Text. A native mic-router with VB-Cable. Lots of things.
 
+### Contributions:
+
+- Improved codec options in Omarchy's Transcoder Binary &nbsp;&nbsp; [₁](https://github.com/omacom/omarchy/pull/16329)
+- Added nvfp4 kv-cache support for `sm120` cards in vLLM 0.27.1 under asynchronous head DIMMs &nbsp;&nbsp; [₁](https://github.com/CommanderTurtle/fork--0.27.1--vllm-nvfp4-kv-sm120/tree/vllm-0.29.0-sm120) &nbsp;&nbsp; [₂](https://github.com/hikarioyama/vllm-nvfp4-kv-sm120/pull/2)
+- Added Jev/Decision Inference to Basalt and Ninfer &nbsp;&nbsp; [₁](https://github.com/jesdga95/basalt/pull/206) &nbsp;&nbsp; [₂](https://github.com/Neroued/ninfer/pull/387)
+- Contributed to Powershell's clipboard support in Wayland &nbsp;&nbsp; [₁](https://github.com/PowerShell/PowerShell/issues/26832#issuecomment-6646169311)
+
 </details>
 
 </details>
