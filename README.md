@@ -16,6 +16,8 @@
 
 gpu & local-only for just about everything so far!
 
+- [localflame](https://github.com/CommanderTurtle/localflame) - an MCP server for models to use firecrawl over cli effectively
+
 - [Diogenes](https://github.com/CommanderTurtle/diogenes) - hosting (linux, service manager), maintained fork of Odysseus for backends and control center
 — this can install and integrate the following if not already installed:
 
