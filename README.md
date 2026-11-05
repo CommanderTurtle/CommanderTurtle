@@ -1,14 +1,14 @@
 <details>
   <summary>click to expand</summary>
 
-# Hi, I'm turtle. I make libraries that make development easier for everyone.
+`Hi, I'm turtle. I make libraries that make development easier for everyone.`
 
 ### Libraries:
 
-- 🟨JS   • [sandwich](https://github.com/CommanderTurtle/sandwich) - a dependency auditor and bun protector ... for all these package.jsons 
-- 🟫Rust • [regedited](https://github.com/CommanderTurtle/regedited) - for databases, replace SQL with rust. Stateful headers are your DB.
-- 🟪F#   • [orc](https://github.com/CommanderTurtle/orc) - a multiplatform giraffe wrapper, for modular sites in all languages.
-- 🟦Ts   • [vitality](https://github.com/CommanderTurtle/vitality) - a wrapper to give "life" to js. Just kidding. It wraps everything in Vite.
+- 🟨JSㅤㅤㅤㅤ• [sandwich](https://github.com/CommanderTurtle/sandwich) - a dependency auditor and bun protector ... for all these package.jsons 
+- 🟫Rustㅤㅤㅤ• [regedited](https://github.com/CommanderTurtle/regedited) - for databases, replace SQL with rust. Stateful headers are your DB.
+- 🟪F#ㅤㅤㅤㅤㅤ• [orc](https://github.com/CommanderTurtle/orc) - a multiplatform giraffe wrapper, for modular sites in all languages.
+- 🟦Tsㅤㅤㅤㅤㅤㅤ• [vitality](https://github.com/CommanderTurtle/vitality) - a wrapper to give "life" to js. It wraps "legacy js" to Vite
 
 <details><summary>expand full suite of tech debt</summary>
 
