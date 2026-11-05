@@ -14,14 +14,16 @@
 
 <br>
 
-|[ʰᵒʳˢᵉ ʳᵘⁿ](https://a.shel.sh/#ss:::X47Qf!?kzD@Tfmmj$Xohh9HU0Yz?eg_xz:e3)|[ᵖᵉˡᶦᶜᵃⁿ ʳᵘⁿ](https://a.shel.sh/#ss:nv*ozoNVoMID#W1$Pzu0t#.hS~4Ku.L?_qF8LLW!)|[ᵍᵘᵐᵐʸ ᵇᵉᵃʳ ʳᵘⁿ](https://a.shel.sh/#ss:z;25g5t.nx6_2JSnU]YLYp906[&_7njQ=[*p$J')|
-|-|-|-|
+
 
 <details><summary>expand full suite of tech debt</summary>
 
 ### Agent Infrastructure Projects:
 
 gpu & local-only for just about everything so far!
+
+|[ʰᵒʳˢᵉ ʳᵘⁿ](https://a.shel.sh/#ss:::X47Qf!?kzD@Tfmmj$Xohh9HU0Yz?eg_xz:e3)ㅤ[₁](https://a.shel.sh/#ss:GXSZwZau.kdDxJED.ag94~7ffQ#il4lPh43oA)|[ᵖᵉˡᶦᶜᵃⁿ ʳᵘⁿ](https://a.shel.sh/#ss:nv*ozoNVoMID#W1$Pzu0t#.hS~4Ku.L?_qF8LLW!)ㅤ[₂](https://a.shel.sh/#ss:Gs8lDY/j[8x2T1StgL~@1Uw*Vp:*s2AurzvPX9[!)|[ᵍᵘᵐᵐʸ ᵇᵉᵃʳ ʳᵘⁿ](https://a.shel.sh/#ss:z;25g5t.nx6_2JSnU]YLYp906[&_7njQ=[*p$J')ㅤ[₃](https://a.shel.sh/#ss:ri&i4F*y~k?[*550d=kqRG;+zT3FE'MBZQ_4/uc,qQA4j&)|
+|-|-|-|
 
 - [localflame](https://github.com/CommanderTurtle/localflame) - an MCP server for models to use firecrawl over cli effectively
 
