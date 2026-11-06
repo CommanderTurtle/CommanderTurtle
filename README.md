@@ -7,17 +7,17 @@
 
 ### Libraries:
 
-- 🟨JS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [sandwich](https://github.com/CommanderTurtle/sandwich) - a dependency auditor and bun protector ... for all these package.jsons 
-- 🟫Rust &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [regedited](https://github.com/CommanderTurtle/regedited) - for databases, replace SQL with rust. Stateful headers are your DB.
-- 🟪F# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [orc](https://github.com/CommanderTurtle/orc) - a multiplatform giraffe wrapper, for modular sites in all languages.
+- 🟨JS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [sandwich](https://github.com/CommanderTurtle/sandwich) - a dependency auditor and bun protector.
+- 🟫Rust &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [regedited](https://github.com/CommanderTurtle/regedited) - for databases, replace SQL with rust. headers are your DB.
+- 🟪F# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [orc](https://github.com/CommanderTurtle/orc) - a giraffe wrapper, for modular sites in all languages.
 - 🟦Ts &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [vitality](https://github.com/CommanderTurtle/vitality) - a wrapper to give "life" to js. It wraps "legacy js" to Vite
 
 ### APIs:
 
-- <img src="./src/MCP-20px.svg" alt="MCP Icon" />ᴍᴄᴘ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [localflame](https://github.com/CommanderTurtle/localflame) - an MCP server for models to use firecrawl over cli effectively
-- ⬛ᴡᴀꜱᴍ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [ppocr-wasm](https://github.com/CommanderTurtle/ppocr-wasm) - an OCR runtime library that uses Paddle with WebGPU in a static webpage
-- 🟫Rust &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [seamingly-epic](https://github.com/CommanderTurtle/seamingly-epic) - A mathematical seam project to allow for 8k Nvidia PID Generation
-- 🟫Rust &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [vox](https://github.com/CommanderTurtle/vox) - an mv3 translator extension for Edge. Use jev or local LLMs. STT/TTS Router
+- <img src="./src/MCP-20px.svg" alt="MCP Icon" />ᴍᴄᴘ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [localflame](https://github.com/CommanderTurtle/localflame) - an MCP server for models to use firecrawl over cli
+- ⬛ᴡᴀꜱᴍ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [ppocr-wasm](https://github.com/CommanderTurtle/ppocr-wasm) - an OCR runtime library that uses Paddle with WebGPU
+- 🟫Rust &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [seamingly-epic](https://github.com/CommanderTurtle/seamingly-epic) - A mathematical seam project for 8k Nvidia PiD
+- 🟫Rust &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [vox](https://github.com/CommanderTurtle/vox) - an mv3 translator extension for local LLMs + STT/TTS
 
 
 <details><summary>expand full suite of tech debt</summary>
