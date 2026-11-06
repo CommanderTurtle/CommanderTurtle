@@ -8,7 +8,7 @@
 ### Libraries:
 
 - 🟨JS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [sandwich](https://github.com/CommanderTurtle/sandwich) - a dependency auditor and bun protector.
-- 🟫Rust &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [regedited](https://github.com/CommanderTurtle/regedited) - for databases, replace SQL with rust. headers are your DB.
+- 🟫Rust &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [regedited](https://github.com/CommanderTurtle/regedited) - for databases, replace SQL with rust. headers = DB.
 - 🟪F# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [orc](https://github.com/CommanderTurtle/orc) - a giraffe wrapper, for modular sites in all languages.
 - 🟦Ts &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • [vitality](https://github.com/CommanderTurtle/vitality) - a wrapper to give "life" to js. It wraps "legacy js" to Vite
 
