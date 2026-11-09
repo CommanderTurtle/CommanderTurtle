@@ -48,12 +48,18 @@ gpu & local-only for just about everything so far!
 - 🟩Qᴍʟ&nbsp;&nbsp;• [omarsket](https://github.com/CommanderTurtle/omarsket) - a QML/Wayland Linux implementation of the Windows Program, [Tasket++](https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys) by Amir Hammoutene
 - 🟪F#&nbsp;&nbsp;• [firebending](https://github.com/CommanderTurtle/firebending) - an Anything-MCP built on macros and careful buffers
 
+### Scripts:
+
+- 🔷Ps&nbsp;&nbsp;• [gitdark](https://github.com/CommanderTurtle/gitdark) - an unironic implementation of `.gitinclude` for private repo histories that have a public-facing repo.
+- 🔷Ps&nbsp;&nbsp;• [denvit/damnit](https://github.com/CommanderTurtle/denvit) - a lightweight script for reintegrating commits in the proper order. Filter out a file like ".env" when an agent commits.
+
 ### Forks:
 
 - 🐍Py&nbsp;&nbsp;• [Fork--Wayland-Automation](https://github.com/CommanderTurtle/Wayland-automation) - a fork of Wayland-Automation (PyPl) fixing cursor movement on Hyprland
 - 🟨JS&nbsp;&nbsp;• [Fork--camofox-browser](https://github.com/CommanderTurtle/archive--camofox-browser) - a fork with maintained dependencies for Camofox Browser
 - <img src="./src/MCP-20px.svg" alt="MCP Icon" />ᴍᴄᴘ&nbsp;&nbsp;• [Fork--camofox-MCP](https://github.com/CommanderTurtle/archive--camofox-mcp) - a fork with maintained dependencies for Camofox MCP
 - 🟩Qᴍʟ&nbsp;&nbsp;• [Fork--omafile](https://github.com/CommanderTurtle/archive--omarchy-omafile) - a customized fork maintained for the Omarchy File Manager, omafile by xyzlab
+- <img src="./src/MCP-20px.svg" alt="MCP Icon" />ᴍᴄᴘ&nbsp;&nbsp;• [Fork--context-mode](https://github.com/CommanderTurtle/context-mode) - a fork of mksglu's original project. Added Hermes as a provider – and kept local-first.
 
 ### Apps:
 
